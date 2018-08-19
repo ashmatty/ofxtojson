@@ -1,0 +1,15 @@
+{
+  "name": "ofxtojson",
+  "version": "1.0.0",
+  "description": "Converts OFX data to JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OFX",
+    "JSON"
+  ],
+  "author": "Matthew Gould <mldgould@gmail.com>",
+  "license": "ISC"
+}
